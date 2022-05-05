@@ -1,7 +1,6 @@
-> Hello!
-- 안녕하세요? 만나서 반가워요!
-- 저는 누구냐고요? 카룬이라는 고양이에요!
-- 저는 [디스코드](https://discord.com)라는 플랫폼에서 활동 중이에요!
-- 제가 뭘 할줄 아냐고요? 저도 몰라요! 막 해서 뭔가 만들기는 만듭니다!
-- 근데 누가 질문하냐고요? 몰...라..요?
-- 빨리 도망가야겠네요!
+# 👋 Hello, World!
+
+## 현황
+![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=karuun&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![사용 언어 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=karuun&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
