@@ -1,8 +1,7 @@
 # 카룬 (karuundev)
 
-<div align=center>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/943020175052120105)](https://discord.com/users/943020175052120105)
-</div>
 
 # 👋 Hello, World!
 안녕하세요! 저는 카룬이라고 합니다.
