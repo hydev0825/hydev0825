@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAD,100:00BFFF&height=200&section=header&text=PARK%20HYUNJUN&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-# 안녕하세요, 박현준입니다! 👋
 
-- 저는 저는 **페더아이티를 운영하고 있는 학생 개발자**로, 세계에 이로운 영향을 미치기 위해 노력하고 있어요.
+# 안녕하세요, 박현준입니다! 👋
+- 저는 **페더아이티를 운영하고 있는 학생 개발자**로, 세계에 이로운 영향을 미치기 위해 노력하고 있어요.
 - 저에 대해 궁금하시다면 [포트폴리오](https://park.hyunjun.me)를 확인해보세요! 언제든지 연락은 환영이에요 🙇‍♂️
 ---
 
