@@ -1,7 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAD,100:00BFFF&height=200&section=header&text=PARK%20HYUNJUN&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 # 안녕하세요, 박현준입니다! 👋
 
-저는 저는 **알고리즘 분석/디도스 방어와 웹사이트 여러 분야에 관심이 있는 학생 개발자**로, 세계에 이로운 영향을 미치기 위해 노력합니다.
-
+저는 저는 **페더아이티를 운영하고 있는 학생 개발자**로, 세계에 이로운 영향을 미치기 위해 노력하고 있어요.
+저에 대해 궁금하시다면 [포트폴리오](https://park.hyunjun.me)를 확인해보세요! 언제든지 연락은 환영이에요 🙇‍♂️
 ---
 
 ## 🚀 Tech Stack
@@ -38,25 +41,48 @@
 
 ## ✨ About Me
 
-- 🔭 **현재**: 새로운 프로젝트를 위해 10개 이상의 웹/소프트웨어를 제작 중입니다.
-- 🌱 **학습 중**: 디도스 방어에 대해 매우 자세하게 학습 중입니다.
-- 📫 **연락 방법**: 아래 이메일 혹은 링크드인을 통해 연락하실 수 있씁니다.
+
+- 🧑‍💻 **학생 개발자 & 네트워크 엔지니어링 매니아**
+    - 페더아이티의 대표작인 클라우드와 PIORA 서비스를 통해 Go 언어 기반 네임서버, XDP 기반 DDoS 완화 필터를 개발해보고 있어요
+    - **풀스택 환경**에서 백엔드 중심으로 개발하려고 노력하고 있어요
+
+- 🛡️ **관심 분야**
+    - 대규모 트래픽 처리와 **고성능 DDoS 방어**
+    - 네트워크 인프라 설계 (BGP, Anycast, GRE 터널링)
+    - DevOps, 서버 자동화, 실시간 모니터링 시스템 구축
+
+- 🚀 **현재 진행 중**
+    - [PIORA](https://piora.net/) 서비스를 준비하고 있어요
+    - [TEAM ARI](https://with-ari.kr/)의 아리 봇의 코드 리팩토링 및 100개 이상의 커밋으로 팀에 기여하고 있어요
+    - [페더아이티](https://feather-it.com/) 회사를 운영하고 있어요
+
+- 📚 **학습 중**
+    - 고급 네트워크 보안 (BGP hijacking 대응, DDoS mitigation)
+    - 분산 시스템 최적화 및 트래픽 로드 밸런싱
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hydev0825&show_icons=true&theme=radical)](https://github.com/hydev0825)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydev0825&layout=compact)](https://github.com/hydev0825)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hydev0825&show_icons=true&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hydev0825&layout=compact&theme=radical" height="160px" />
+</p>
 
+<p align="center">
+  <!-- WakaTime (SVG Embed with size control) -->
+  <img src="https://wakatime.com/share/@98c555b6-db34-402d-8a89-c902873475b8/d57161fd-3230-4c92-8f14-fce83a372a9b.svg" width="600" />
+</p>
 ---
 
 ## 📫 Connect with Me
 
-- **Email:** park@hyunjun.me
-- **LinkedIn:** [@hyunjunme](https://www.linkedin.com/in/hyunjunme)
-- **Twitter:** [@hyunjun.me](https://discordapp.com/users/943020175052120105)
+저에게 궁금한 점이 있으시거나 협력하고 싶은 내용이 있으시다면 언제든지 연락 주세요.
+최대한 빠르게 답변드리기 위해 노력할게요.
 
+- Email: park@hyunjun.me
+- Discord: @hyunjun.me
+- TG: @hypamonster
 ---
 
 감사합니다! 😊
